@@ -1,1 +1,1 @@
-karthik a n
+A Maven build in a CI/CD pipeline automates the process of compiling, testing, and packaging the application using configurations defined in the pom.xml. Whenever code is pushed to the repository, the pipeline triggers Maven commands such as mvn clean install to validate the build. This helps in identifying build or test failures at an early stage, ensuring code quality and consistency. Once the build is successful, the generated artifacts like JAR or WAR files are automatically stored or deployed as part of continuous integration and delivery.
